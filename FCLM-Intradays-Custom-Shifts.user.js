@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         FCLM Intradays (Custom Shifts)
-// @namespace    https://github.com/tampermonky/FCLM-Intradays-Custom-Shifts
-// @version      3.1
+// @namespace    http://tampermonkey.net/
+// @version      3.5
 // @description  Custom intraday and full-day shift buttons with editable shift times
 // @author       eydel@
 // @match        https://fclm-portal.amazon.com/*
-// @updateURL    https://raw.githubusercontent.com/tampermonky/FCLM-Intradays-Custom-Shifts/main/FCLM-Intradays-Custom-Shifts.user.js
-// @downloadURL  https://raw.githubusercontent.com/tampermonky/FCLM-Intradays-Custom-Shifts/main/FCLM-Intradays-Custom-Shifts.user.js
+// @updateURL    https://tamarin.aces.amazon.dev/scripts/fclm-intradays-custom-shifts/install.user.js
+// @downloadURL  https://tamarin.aces.amazon.dev/scripts/fclm-intradays-custom-shifts/install.user.js
 // @grant        none
 // ==/UserScript==
 
